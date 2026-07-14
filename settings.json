@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "first_block_smp.aternos.me:42879",
+    "ip": "first_block_smp.aternos.me",
     "port": 42879,
     "version": "26.1.2",
     "try-creative": false
