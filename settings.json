@@ -8,7 +8,7 @@
   "server": {
     "ip": "first_block_smp.aternos.me:42879",
     "port": 42879,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
