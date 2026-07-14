@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "first_block_smp.aternos.me:42879",
